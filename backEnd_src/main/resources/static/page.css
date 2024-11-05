@@ -1,0 +1,30 @@
+@charset "UTF-8";
+.title{
+    width: 40%;
+    height: 100px;
+    background-color:#90B030;
+    margin-left: 30%;
+
+}
+
+.navigation
+{
+    width: 40%;
+    height: 50px;
+    background-color:#B6D35F;
+    margin-left: 30%;
+}
+.content
+{
+    width: 40%;
+    height: 400px;
+    background-color:#E2EDBF;
+    margin-left: 30%;
+}
+
+.end{
+    width: 40%;
+    height: 50px;
+    background-color: #425016;
+    margin-left: 30%;
+}
